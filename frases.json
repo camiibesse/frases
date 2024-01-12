@@ -1,0 +1,32 @@
+[
+	{
+		"palabra": "Soy",
+		"id": "1",
+		"timestamp": 1704637816327
+	},
+	{
+		"palabra": "Cami",
+		"id": "2",
+		"timestamp": 1704637896184
+	},
+	{
+		"palabra": "y",
+		"id": "3",
+		"timestamp": 1704637901141
+	},
+	{
+		"palabra": "estudio",
+		"id": "4",
+		"timestamp": 1704637905941
+	},
+	{
+		"palabra": "Desarrollo",
+		"id": "5",
+		"timestamp": 1704637913511
+	},
+	{
+		"palabra": "Web",
+		"id": "6",
+		"timestamp": 1704637917753
+	}
+]
